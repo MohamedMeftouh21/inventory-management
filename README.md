@@ -1,6 +1,6 @@
-  # django-autocomplete-light
+  # django-autocomplete-light (Example with inventory-management )
  
-  ## Example with inventory-management 
+  
   
   
   ## New choices in the autocomplete form:
