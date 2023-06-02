@@ -1,4 +1,4 @@
 
 
 
-[![Alt text](inventory_management/images.jpg)
+[![Alt text](images.jpg)
