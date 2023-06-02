@@ -1,4 +1,4 @@
 
 
 
-[![Alt text](/Users/md/Desktop/inventory_management/images.jpg)
+[![Alt text](inventory_management/images.jpg)
